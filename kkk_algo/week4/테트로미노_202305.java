@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-/**
+/***
  * 2023.05.08 - 05.14
  * 테트로미노
  * https://www.acmicpc.net/problem/14500
